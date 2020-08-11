@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-> I am a Ph.D. student from the University of Alberta. I am mainly interested in NLP and ML in general.
+> I am a Ph.D. student from the University of Alberta. I am mainly focusing on research in NLP and ML/DL in general.
 
 <!--
 **chenyangh/chenyangh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
